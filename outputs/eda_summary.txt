@@ -1,0 +1,16 @@
+Climate Project Summary
+=======================
+
+NASA cleaned shape: (146, 19)
+Weather cleaned shape: (105038, 9)
+CO2 long-format shape: (14203, 5)
+NASA year range: 1880-2025
+Weather observation range: 2024-05-16 01:45:00 to 2025-11-07 21:30:00
+Temperature slope, 1950-1999: 0.0113 degrees C per year
+Temperature slope, 2000-2024: 0.0260 degrees C per year
+Temperature-CO2 correlation, overlapping years: 0.9337
+Mean temperature anomaly, 1950-1999: 0.1174 degrees C
+Mean temperature anomaly, 2000-2024: 0.7648 degrees C
+One-sided Welch t-test statistic: 12.6405
+One-sided Welch t-test p-value: 1.22417e-16
+Countries in CO2-weather merge: 5
